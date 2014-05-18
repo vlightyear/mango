@@ -4,7 +4,6 @@ MarkupSafe==0.23
 PyYAML==3.11
 Werkzeug==0.9.4
 argparse==1.2.1
-distribute==0.6.24
 gunicorn==18.0
 textblob==0.8.4
 wsgiref==0.1.2
